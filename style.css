@@ -32,7 +32,7 @@ body {
 .profile-card {
     display: grid;
     grid-template-columns: 110px 1fr;
-    gap: 10px;
+    gap: 20px;
     align-items: center;
 }
 
@@ -74,3 +74,4 @@ body {
     color: #9ca3af;
 
 }
+
